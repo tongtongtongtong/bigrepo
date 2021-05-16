@@ -542,4 +542,3 @@ replace (
 
 // hailong test1
 // hailong
-// demo only
